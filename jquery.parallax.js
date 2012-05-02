@@ -6,7 +6,7 @@
  * @author:		Devin Smith (http://devin.la)
  * @date:		2012-05-02
  *
- * Mouse tracking parallax for jquery. This is a fork of Stephen's old 
+ * Mouse move parallax for jquery. This is a fork of Stephen's old 
  * version that worked for me better. This fork also includes a fix for
  * newer versions of jQuery. For his new code check out
  * http://github.com/stephband/jparallax
