@@ -19,7 +19,7 @@
  *
  */
 
-(function(jQuery){
+(function($){
 	function stripFiletype(ref) {
 		var x = ref.replace('.html', '');
 		return x.replace('#', '');
@@ -341,4 +341,4 @@
 		frameDuration: 25
 	};
 	initOrigin($.fn.jparallax.settings);
-})($);
+})(jQuery);
